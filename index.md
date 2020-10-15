@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Welcome to Shiva's site
 
-You can use the [editor on GitHub](https://github.com/shivapabbathi3103/shivapabbathi3103.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Make yourself at home
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Bio
 
-### Markdown
+My name is Shiva and I was born in India. I don't remember much of my life until I moved to the US in 2012. When I first came to the US, I lived at Connecticut where I started playing clarinet in the school band. Eventually, I moved to Westborough, MA and started playing in the school band in 5th grade. I worked my way through school until 8th grade when I realized I wanted to do something with music as a career. I auditioned for districts in 8th and 9th grade and didn't make it. I then made it my sophmore year. Then I made it into states my senior year. I eventually auditioned into UMass Amherst for Music Performance and Music Education.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In my freshman year of high school, I started teaching math to elementary school children and donated the funds to a nonprofit organization called "People for India" that develops leadership skills, infrastructure, and core values in India. Over the years, I contintued my passion for music and found a new passion for teaching. In my junior year, I had a teacher that changed my opinion about math. He really made me work hard and I was able to test into AP Calculus. That teacher will be one of the most influential teachers, along with my band teachers, for me. Even as a college student, I am still teaching for "People for India" and I've raised over $10k in the past 4 years I've been teaching. 
 
-```markdown
-Syntax highlighted code block
+## References
+_People for India_
+https://www.peopleforindia.org/
 
-# Header 1
-## Header 2
-### Header 3
+_Me as a Marching Band Conductor_
+https://www.youtube.com/watch?v=Ps91JKSNFDM
 
-- Bulleted
-- List
+_Me as an Eagle Scout_
 
-1. Numbered
-2. List
+<img src="https://i.imgur.com/FqK0dAw.png" alt="EagleScout" width="150" height="150">
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shivapabbathi3103/shivapabbathi3103.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Thank you for visiting my site!**
